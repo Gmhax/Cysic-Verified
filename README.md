@@ -1,4 +1,4 @@
-# Cysic-Verified
+# Cysic-Verifier
 
 Cysic is a ZK-hardware acceleration project focused on developing advanced ASIC chips to expedite the generation of ZK proofs for zk-based systems. Leveraging its expertise in ASIC design and GPU engineering, Cysic aims to address this hurdle by offering enterprise-grade ZK compute-as-a-service to an array of ZK projects.
 
