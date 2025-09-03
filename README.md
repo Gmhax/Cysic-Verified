@@ -2,6 +2,10 @@
 
 Cysic is a ZK-hardware acceleration project focused on developing advanced ASIC chips to expedite the generation of ZK proofs for zk-based systems. Leveraging its expertise in ASIC design and GPU engineering, Cysic aims to address this hurdle by offering enterprise-grade ZK compute-as-a-service to an array of ZK projects.
 
+- Before installation, don’t forget to reserve 0.5 CYS.
+<img width="1356" height="572" alt="image" src="https://github.com/user-attachments/assets/a8c2ea2b-b16a-45b2-a531-815beb2cc6d8" />
+
+
 # Installation 
 ## Step 1 — Redownload & Setup
 ```
